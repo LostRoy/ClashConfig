@@ -8,6 +8,10 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,guominjie.com
 DOMAIN-SUFFIX,guojinwen.com
+# 无关网站
+DOMAIN-SUFFIX,adblockplus.org
+DOMAIN-SUFFIX,shields.io
+DOMAIN-SUFFIX,intercom.io
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
