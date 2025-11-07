@@ -5,6 +5,9 @@
 DOMAIN-SUFFIX,satisfactory-calculator.com
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,rutracker.cc
+DOMAIN-SUFFIX,nexusmods.com
+DOMAIN-SUFFIX,nexus-cdn.com
+
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,1e100
