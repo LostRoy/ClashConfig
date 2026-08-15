@@ -5,6 +5,7 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,ppiao.com
+DOMAIN-SUFFIX,appsflyersdk.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
