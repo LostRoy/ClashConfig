@@ -8,11 +8,6 @@ DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,ppiao.com
 DOMAIN-SUFFIX,guominjie.com
 DOMAIN-SUFFIX,guojinwen.com
-# 游戏
-DOMAIN-SUFFIX,appsflyersdk.com
-DOMAIN-SUFFIX,pmang.cloud
-DOMAIN-SUFFIX,limbuscompanycdn.com
-DOMAIN-SUFFIX,limbuscompanyapi.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
